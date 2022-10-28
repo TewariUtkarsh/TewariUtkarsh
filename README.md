@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Utkarsh Tewari</h1>
-<h3 align="center">A passionate Data Scientist Student from India</h3>
+<h3 align="center">A passionate Data Scientist from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=tewariutkarsh&label=Profile%20views&color=0e75b6&style=flat" alt="tewariutkarsh" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tewariutkarsh" alt="tewariutkarsh" /></a> </p>
 
-- 🔭 I’m currently working on [Fault Detection in Wafer Sensors](https://github.com/TewariUtkarsh/wafer-fault-detection-project)
+- 🔭 I’m currently working on [Customer Personality Analysis Problem Statement]([https://github.com/TewariUtkarsh/wafer-fault-detection-project](https://github.com/TewariUtkarsh/Customer-Personality-Analysis))
 
 - 🌱 I’m currently learning **Data Science**
 
-- 💬 Ask me about **Python, Database(SQL and NoSQL), Flask Framework(APIs), Machine Learning, Data Science, Deployment**
+- 💬 Ask me about **Python, Database(SQL and NoSQL), Flask Framework(APIs), Statistics, Machine Learning, Deep Learning, Computer Vision, Data Science, Deployment(CI/CD)**
 
 - 📫 How to reach me **tewariutkarsh@outlook.com**
 

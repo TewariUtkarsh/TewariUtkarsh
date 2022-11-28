@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tewariutkarsh" alt="tewariutkarsh" /></a> </p>
 
-- 🔭 I’m currently working on [Customer Personality Analysis Problem Statement]([https://github.com/TewariUtkarsh/wafer-fault-detection-project](https://github.com/TewariUtkarsh/Customer-Personality-Analysis))
+- 🔭 I’m currently working on a Use Case for Detecting Customer Churn Rate and provide valuable solutions.
 
 - 🌱 I’m currently learning **Data Science**
 
